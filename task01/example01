@@ -1,7 +1,7 @@
 // start
 
 int a = 2;
-int b = 4;
+int b = 3;
 int c = 7;
 int max = a;
 
@@ -9,4 +9,17 @@ if (b > max) max = b;
 if (c > max) max = c;
 
 Console.WriteLine(max);
+// end
+
+// start
+
+int a3 = 22;
+int b3 = 3;
+int c3 = 9;
+int max3 = a3;
+
+if (b3 > max3) max3 = b;
+if (c3 > max3) max3 = c;
+
+Console.WriteLine(max3);
 // end
