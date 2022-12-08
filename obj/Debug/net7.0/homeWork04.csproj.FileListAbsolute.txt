@@ -1,0 +1,15 @@
+/Users/denis/Desktop/homeWork04/bin/Debug/net7.0/homeWork04
+/Users/denis/Desktop/homeWork04/bin/Debug/net7.0/homeWork04.deps.json
+/Users/denis/Desktop/homeWork04/bin/Debug/net7.0/homeWork04.runtimeconfig.json
+/Users/denis/Desktop/homeWork04/bin/Debug/net7.0/homeWork04.dll
+/Users/denis/Desktop/homeWork04/bin/Debug/net7.0/homeWork04.pdb
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/homeWork04.csproj.AssemblyReference.cache
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/homeWork04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/homeWork04.AssemblyInfoInputs.cache
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/homeWork04.AssemblyInfo.cs
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/homeWork04.csproj.CoreCompileInputs.cache
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/homeWork04.dll
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/refint/homeWork04.dll
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/homeWork04.pdb
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/homeWork04.genruntimeconfig.cache
+/Users/denis/Desktop/homeWork04/obj/Debug/net7.0/ref/homeWork04.dll
